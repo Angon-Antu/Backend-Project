@@ -15,9 +15,3 @@ backend-project/ ├── controllers/ │ └── authController.js ├─�
 ## Prerequisites
 - **Node.js** (v14 or later)
 - **npm** (v6 or later)
-
-## Installation
-1. Clone or download the project.
-2. Navigate to the project folder:
-   ```bash
-   cd backend-project
